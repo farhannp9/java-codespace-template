@@ -17,7 +17,7 @@ Alternatively, you can also:
 - create new repo
 - run
 ```
-git clone --bare https://github.com/exampleuser/public_repo.git
+git clone --bare https://github.com/farhannp9/java-github-codespace-template.git
 cd public_repo.git
 git push --mirror https://github.com/yourname/private_repo.git
 cd ..
