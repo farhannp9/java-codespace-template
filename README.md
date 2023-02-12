@@ -5,6 +5,7 @@ This Java Spring sample application to work with Github Codespace. Build using J
 
 ## How to
 ### Use codespace
+<a href="https://junyonglee.me/github/How-to-make-forked-private-repository/">Main Article</a>
 - make a fork of current repository
 - open the subfolder in codespace
 - build container
